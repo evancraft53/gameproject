@@ -1,0 +1,14 @@
+# Diddy Bird – Marketing
+
+## Short Description
+A chaotic parody of Flappy Bird but now with diddy and epstein a bit maybe of horror idk bro
+---
+
+## Audience Funnel
+
+```mermaid
+graph TD
+me -----> my online gang
+gang ---> the rest of the hoood
+hood --> Players who enjoy diddy humor
+diddy humor --> rest of the world
