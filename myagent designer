@@ -1,0 +1,13 @@
+# Agent: Programmer
+
+## Role
+Implements the game in Unity.
+
+## Responsibilities
+- Code player movement (flappy mechanics)
+- Implement obstacle spawning
+- Handle scoring system
+
+## Output
+- Working game prototype
+- Bug fixes and optimizations
