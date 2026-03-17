@@ -1,0 +1,16 @@
+# Development Workflow
+
+## Process Overview
+The game is developed through collaboration between different agents.
+
+```mermaid
+graph TD
+A[Game Idea] --> B[Game Designer]
+B --> C[Programmer]
+B --> D[Artist]
+C --> E[Prototype Build]
+D --> E
+E --> F[Testing]
+F --> G[Improvements]
+G --> C
+G --> D
