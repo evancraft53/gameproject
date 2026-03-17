@@ -1,0 +1,40 @@
+# Diddy Bird – Game Design
+
+## Core Gameplay Loop (Action → Reward → Expansion)
+
+### Action
+The player taps to keep the bird in the air and navigates through obstacles.
+
+### Reward
+- Score increases for every obstacle passed
+- Visual/audio feedback for success
+- tuff elements reward the player with humor
+
+### Expansion
+- Game speed gradually increases (COMMING SOON)
+- Obstacles become harder and more unpredictable (COMMING SOON)
+- Visuals become more distorted (analog horror effect)
+
+---
+
+## Difficulty Curve & Progression
+
+### Early Game
+- Slow speed
+- Wide gaps between obstacles
+- Easy to learn controls
+
+### Mid Game (COMING SOON)
+- Faster movement
+- Narrower gaps
+- More distracting visuals
+
+### Late Game (COMING SOON)
+- Very fast speed
+- Tight gaps and chaotic obstacle placement
+- Heavy visual distortion for difficulty
+
+### Progression System (COMING SOON)
+- Score-based progression
+- Difficulty scales automatically over time
+- No levels, endless gameplay loop
